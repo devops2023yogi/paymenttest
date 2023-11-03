@@ -2,6 +2,6 @@ My new file.
 
 Here is the text.
 
-New logs.
+New text added here.
 
 Prev logs.
