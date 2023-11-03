@@ -7,3 +7,5 @@ New text added here.
 Prev logs.
 
 check again.
+
+Added from the command line.
